@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Conv_ACaslonPro-BoldItalic";
+    src: url("../fonts/ACaslonPro-BoldItalic.eot");
+    src: local("☺"), url("../fonts/ACaslonPro-BoldItalic.woff") format("woff"),
+        url("../fonts/ACaslonPro-BoldItalic.ttf") format("truetype"), url("../fonts/ACaslonPro-BoldItalic.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+// font-family: 'Krona One', regular 400;
+// font-family: 'PT Sans', regular 400, regular 400 italic,bolt 700 ;
+// font-family: 'Ranchers', regular 400;
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&family=PT+Sans:ital,wght@0,400;0,700;1,400&family=Ranchers&display=swap");
+
+@font-face {
+	font-family: 'Conv_CASTELAR';
+	src: url('../fonts/CASTELAR.eot');
+	src: local('☺'), url('../fonts/CASTELAR.woff') format('woff'), url('../fonts/CASTELAR.ttf') format('truetype'), url('../fonts/CASTELAR.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ariblk';
+	src: url('../fonts/Conv_aribik/ariblk.eot');
+	src: local('☺'), url('../fonts/Conv_ariblk/aribik.woff') format('woff'), url('../fonts/Conv_aribik/ariblk.ttf') format('truetype'), url('../fonts/Conv_aribik/ariblk.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
